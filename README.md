@@ -1,4 +1,4 @@
 # c-programming-
 My C programming learning journey and beginner programs.
-\n
+<br>
 author-Guruprasad Vakkund
